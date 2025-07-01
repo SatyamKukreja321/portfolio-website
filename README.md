@@ -1,8 +1,8 @@
-# BC | Angular Portfolio App
+<!-- # BC | Angular Portfolio App
 
 This is my personal portfolio website built with **Angular 19**, Typescript, HTML5, CSS3, Bootstrap, Bootstrap Icons, RxJS, Vite, Angular Material and tests in Jasmine. It's currently deployed on the web: [https://angular-portfolio-app-omega.vercel.app/](https://angular-portfolio-app-omega.vercel.app/)
 
-![Barbara Calderon's Angular Portfolio App](portfolio.png)
+![Satyam Kukreja's Angular Portfolio App](portfolio.png)
 
 This project was originally generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7 and then upgraded to version 19.2.7 on April 2025. Check [version history](#version-history) for more information.
 
@@ -14,9 +14,9 @@ _This project's last tag for Angular 17 was tag v1.3.0, you can download and use
 
 I'm Barbara Calderon, a software developer.
 
-- [Github](https://www.github.com/barbaracalderon)
-- [Linkedin](https://www.linkedin.com/in/barbaracalderondev/?locale=en_US)
-- [Twitter](https://www.x.com/bederoni)
+- [Github]()
+- [Linkedin]()
+- [Twitter]()
 
 ## The Project
 
@@ -82,4 +82,4 @@ This portfolio was designed and developed by myself, Barbara Calderon, using fro
 | [1.1.1](https://github.com/barbaracalderon/angular-portfolio-app/releases/tag/v1.1.1)   | Jan 2025   | Updated content on about me page. Resolved issues with dependencies alerts by upgrading.|
 | [1.1.0](https://github.com/barbaracalderon/angular-portfolio-app/releases/tag/v1.1.0)   | Jan 2025   | Updated content on home and about me pages. Fixed window width issues. Carousel anchor tags no longer green style. Resolved issue with carousel indicators not displaying. Added license.|
 | 1.0.1   | Jun 2024   | Added more projects to the portfolio page.       |
-| 1.0.0   | May 2024   | Initial release of the portfolio.                |
+| 1.0.0   | May 2024   | Initial release of the portfolio.                | -->
